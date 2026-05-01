@@ -16,6 +16,8 @@ namespace ProyectoCompiladores1.Core
         // Tabla de símbolos acumulada entre análisis
         private readonly List<Token> _tablaSimbolos;
 
+        private readonly List<string> palabrasReservadas = new List<string> { "int", "float", "string", "if", "else", "while", "return" };
+
         public AnalizadorLexico()
         {
             _reglas       = new List<(AFN, string)>();
@@ -120,7 +122,13 @@ namespace ProyectoCompiladores1.Core
 
                 if (mejorFin > pos)
                 {
+
                     string lexema = entrada.Substring(pos, mejorFin - pos);
+                    if (mejorTipo == "Identificador" && palabrasReservadas.Contains(lexema))
+                    {
+                        mejorTipo = "Palabra Reservada";
+                    }
+
                     var token = new Token(lexema, mejorTipo, lexema, fila, columna);
                     tokens.Add(token);
                     AgregarATabla(token);
