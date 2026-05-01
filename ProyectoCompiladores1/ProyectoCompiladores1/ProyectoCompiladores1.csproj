@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>ProyectoCompiladores1</AssemblyName>
+    <RootNamespace>ProyectoCompiladores1</RootNamespace>
+    <ApplicationIcon />
+    <StartupObject>ProyectoCompiladores1.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

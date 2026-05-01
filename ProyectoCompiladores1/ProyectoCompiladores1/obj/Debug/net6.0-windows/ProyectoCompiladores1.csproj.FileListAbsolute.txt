@@ -1,0 +1,17 @@
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\obj\Debug\net6.0-windows\ProyectoCompiladores1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\obj\Debug\net6.0-windows\ProyectoCompiladores1.AssemblyInfoInputs.cache
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\obj\Debug\net6.0-windows\ProyectoCompiladores1.AssemblyInfo.cs
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\obj\Debug\net6.0-windows\ProyectoCompiladores1.csproj.CoreCompileInputs.cache
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\bin\Debug\net6.0-windows\ProyectoCompiladores1.exe
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\bin\Debug\net6.0-windows\ProyectoCompiladores1.deps.json
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\bin\Debug\net6.0-windows\ProyectoCompiladores1.runtimeconfig.json
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\bin\Debug\net6.0-windows\ProyectoCompiladores1.dll
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\bin\Debug\net6.0-windows\ProyectoCompiladores1.pdb
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\obj\Debug\net6.0-windows\ProyectoCompiladores1.dll
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\obj\Debug\net6.0-windows\refint\ProyectoCompiladores1.dll
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\obj\Debug\net6.0-windows\ProyectoCompiladores1.pdb
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\obj\Debug\net6.0-windows\ProyectoCompiladores1.genruntimeconfig.cache
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\obj\Debug\net6.0-windows\ref\ProyectoCompiladores1.dll
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\obj\Debug\net6.0-windows\ProyectoCompiladores1.UI.FormAgregarRegla.resources
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\obj\Debug\net6.0-windows\ProyectoCompiladores1.UI.FormPrincipal.resources
+C:\Users\md827\source\repos\ProyectoCompiladores1\ProyectoCompiladores1\obj\Debug\net6.0-windows\ProyectoCompiladores1.csproj.GenerateResource.cache
